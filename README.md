@@ -1,16 +1,24 @@
-## Hi there 👋
+## Welcome to my profile
 
-<!--
-**aobutakuki/aobutakuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student and I am currently mainly learning C++ and Java. 
+I thought it would be nice to track my journey as I learn and will upload projects as I create them in order to build a small portifolio.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects ⛄
+**C++**
+I've only recently picked up C++, however it is been a fun journey and here is what I've done so far:
+
+- Random Number Guessing Game
+  
+- QT Ebup Reader
+
+- QT Book Tracker
+
+
+
+
+Note:
+Since I am still learning the code is likely not perfectly organized and might not be optimized to it's full potential. The code might also have severe limitations which I am learning how to handle and improving as time goes on.
+
+
+
