@@ -26,9 +26,11 @@ I've only recently picked up C++, however it is been a fun journey and here is w
 
 
 ## 📖 Languages 📖
-🇧🇷 Portuguese (Native)
-🇬🇧 English (Fluent)
-🇯🇵 Japanese (Fluent)
+🌏 Portuguese (Native)
+
+🌏 English (Fluent)
+
+🌏 Japanese (Fluent)
 
 
 ## 🎱 Hobbies 🎱
