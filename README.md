@@ -21,7 +21,7 @@ I've only recently picked up C++, however it is been a fun journey and here is w
 
 - [Random Number Guessing Game](https://github.com/aobutakuki/Random-Number-Guessing-Game)
   
-- [QT Ebub Reader](https://github.com/aobutakuki/QT-Book-Reader)
+- [QT Epub Reader](https://github.com/aobutakuki/QT-Book-Reader)
 
 - [QT Book Tracker](https://github.com/aobutakuki/QT-Book-Tracker)
 
