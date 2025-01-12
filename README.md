@@ -4,15 +4,15 @@ I am a Software Engineering student and I am currently mainly learning C++ and J
 I thought it would be nice to track my journey as I learn and will upload projects as I create them in order to build a small portifolio.
 
 
-### Projects ⛄
+## ⛄ Projects ⛄
 **C++**
 I've only recently picked up C++, however it is been a fun journey and here is what I've done so far:
 
-- Random Number Guessing Game
+- [Random Number Guessing Game](https://github.com/aobutakuki/Random-Number-Guessing-Game)
   
-- QT Ebup Reader
+- [QT Ebup Reader](https://github.com/aobutakuki/QT-Book-Reader)
 
-- QT Book Tracker
+- [QT Book Tracker](https://github.com/aobutakuki/QT-Book-Tracker)
 
 
 
