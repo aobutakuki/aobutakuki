@@ -6,8 +6,11 @@ I thought it would be nice to track my journey as I learn and will upload projec
 ## 📌 Skills 📌
 
 📗 **C++**
+
 📗**CSS**
+
 🛠**QT** (C++ Version)
+
 🗂**SQL**
 
 
@@ -43,10 +46,13 @@ Ever since I was little I was always attracted to technology so taking part in d
 ## 📁 Extra 📁
 
 🏆 **Approved on MEXT 2024**
+
 🏆**Currently enrolled on Software Engineering Course**
+
 🏆**Self-taught Japanase**
 
 🎵**Learning Guitar** 
+
 🍳**Learning Cooking**
 
 Note:
