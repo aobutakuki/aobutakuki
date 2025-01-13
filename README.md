@@ -57,7 +57,7 @@ Ever since I was little I was always attracted to technology so taking part in d
 
 🏆**Currently enrolled on Software Engineering Course**
 
-🏆**Self-taught Japanase**
+🏆**JPLT N1 (Self-taught)**
 
 🎵**Learning Guitar** 
 
