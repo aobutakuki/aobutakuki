@@ -7,6 +7,8 @@ I thought it would be nice to track my journey as I learn and will upload projec
 
 📗 **C++**
 
+📗**Java**
+
 📗**CSS**
 
 🛠**QT** (C++ Version)
@@ -27,6 +29,8 @@ I've only recently picked up C++, however it is been a fun journey and here is w
 
 
 **Java**
+
+For Java I will probably be uploading most of the projects I start and strenghting my knowledge in OOP
 
 - [Simple Calculator](https://github.com/aobutakuki/Java-Basic-Calculator/blob/main/README.md)
 
