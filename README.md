@@ -11,7 +11,7 @@ I thought it would be nice to track my journey as I learn and will upload projec
 
 🛠**QT** (C++ Version)
 
-🗂**SQL**
+🗂**SQLite**
 
 
 ## ⛄ Projects ⛄
