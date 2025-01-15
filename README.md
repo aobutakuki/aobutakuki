@@ -34,6 +34,8 @@ For Java I will probably be uploading most of the projects I start and strenghti
 
 - [Simple Calculator](https://github.com/aobutakuki/Java-Basic-Calculator/blob/main/README.md)
 
+- [Rectangle Generator](https://github.com/aobutakuki/Rectangle-Generator)
+
 
 ## 📖 Languages 📖
 🌏 Portuguese (Native)
