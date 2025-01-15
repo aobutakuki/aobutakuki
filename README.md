@@ -77,7 +77,7 @@ Ever since I was little I was always attracted to technology so taking part in d
 Note:
 Since I am still learning the code is likely not perfectly organized and might not be optimized to it's full potential. The code might also have severe limitations which I am learning how to handle and improving as time goes on.
 
-I enjoy self-learning but I also loving working as a team. I believe getting your hands dirty is the best way to learn, and that actually doing something is a much better experience then just reading/watching lectures.
+I enjoy self-learning but I also love to work as a team. I believe getting your hands dirty is the best way to learn, and that actually doing something is a much better experience then just reading/watching lectures.
 
 
 
