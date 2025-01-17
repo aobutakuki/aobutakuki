@@ -36,6 +36,8 @@ For Java I will probably be uploading most of the projects I start and strenghti
 
 - [Rectangle Generator](https://github.com/aobutakuki/Rectangle-Generator)
 
+- [Airline Ticket Booking Manager](https://github.com/aobutakuki/WIP-Airline-Booking-System)
+
 
 ## 📖 Languages 📖
 🌏 Portuguese (Native)
