@@ -40,6 +40,8 @@ For Java I will probably be uploading most of the projects I start and strenghti
 
 - [Airline Ticket Booking Manager](https://github.com/aobutakuki/WIP-Airline-Booking-System)
 
+- [Password Generator](https://github.com/aobutakuki/Password-Generator)
+
 
 ## 📖 Languages 📖
 🌏 Portuguese (Native)
