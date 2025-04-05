@@ -1,7 +1,6 @@
 ## 🍪 Welcome to my profile 🍪
 
-I am a Software Engineering student and I am currently mainly learning C++ and Java. 
-I thought it would be nice to track my journey as I learn and will upload projects as I create them in order to build a small portifolio.
+I am a software engineer student. I am a self-taught developer, and I believe we learn through experience. At the moment I want to get in the fields related to data/AI/full-stack development as they are the fields I am most interested right now!
 
 ## 📌 Skills 📌
 
@@ -12,6 +11,10 @@ I thought it would be nice to track my journey as I learn and will upload projec
 📗**CSS**
 
 📗**HTML**
+
+📗**NodeJS**
+
+📗**Python**
 
 🛠**QT** (C++ Version)
 
@@ -49,6 +52,11 @@ For Java I will probably be uploading most of the projects I start and strenghti
 - [Password Generator](https://github.com/aobutakuki/Password-Generator)
 
 - [Spring Boot File Download/Upload Tool](https://github.com/aobutakuki/fileDownloader/tree/master)
+
+
+**Other**
+
+I will be posting professional and other portifolio projects, or sharing work experiences.
 
 
 ## 📖 Languages 📖
