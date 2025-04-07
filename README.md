@@ -56,7 +56,7 @@ For Java I will probably be uploading most of the projects I start and strenghti
 
 **Other**
 
-I will be posting professional and other portifolio projects, or sharing work experiences.
+-[Front-end store for facilitandoacupuntura](https://github.com/aobutakuki/facilitando_acupuntura_loja)
 
 
 ## 📖 Languages 📖
