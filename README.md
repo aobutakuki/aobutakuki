@@ -26,9 +26,18 @@ I am a software engineer student. I am a self-taught developer, and I believe we
 
 
 ## ⛄ Projects ⛄
+**Highlighted**
+
+- [Tetris Clone](https://github.com/aobutakuki/SDL2-Tetris-Clone-Project) 
+WIP - This project is a challenge I've put upon myself with the goal of learning more about game programming and C++ which basically envolves cloning old games, starting with Tetris
+
+- [Facilitando Acupuntura Store](https://github.com/aobutakuki/facilitando_acupuntura_loja)
+WIP - This is an on-going project, out of the ones in here it can be considered my first professional project as I need to work with the client and understand their requests, while maintaing a good code (with a few restrictions here and there) so that it can be implemented without breaking the backend.
+
+
 **C++**
 
-I've only recently picked up C++, however it is been a fun journey and here is what I've done so far:
+List of C++ projects, it was my first OOP Language, so some of the projects might be messy:
 
 - [Random Number Guessing Game](https://github.com/aobutakuki/Random-Number-Guessing-Game)
   
@@ -41,7 +50,7 @@ I've only recently picked up C++, however it is been a fun journey and here is w
 
 **Java**
 
-For Java I will probably be uploading most of the projects I start and strenghting my knowledge in OOP
+Java project list, it was my first web/backend experience:
 
 - [Simple Calculator](https://github.com/aobutakuki/Java-Basic-Calculator/blob/main/README.md)
 
@@ -52,11 +61,6 @@ For Java I will probably be uploading most of the projects I start and strenghti
 - [Password Generator](https://github.com/aobutakuki/Password-Generator)
 
 - [Spring Boot File Download/Upload Tool](https://github.com/aobutakuki/fileDownloader/tree/master)
-
-
-**Other**
-
--[Front-end store for facilitandoacupuntura](https://github.com/aobutakuki/facilitando_acupuntura_loja)
 
 
 ## 📖 Languages 📖
