@@ -1,7 +1,6 @@
 ## 🍪 Welcome to my profile 🍪
 
-I am a software engineer student. I am a self-taught developer, and I believe we learn through experience. At the moment I want to get in the fields related to data/AI/full-stack development as they are the fields I am most interested right now!
-
+I am a software engineer student and self-taught developer, I believe we learn through experience, feel free to check out my projects and to open pull requests or get in touch with me!
 ## 📌 Skills 📌
 
 📗**C++**
@@ -20,7 +19,13 @@ I am a software engineer student. I am a self-taught developer, and I believe we
 
 🛠**Spring Boot**
 
+🛠**Thymeleaf**
+
+🛠**Bootstrap**
+
 🗂**SQLite**
+
+🗂**PostgreSQL**
 
 👾**GODOT**
 
@@ -28,16 +33,14 @@ I am a software engineer student. I am a self-taught developer, and I believe we
 ## ⛄ Projects ⛄
 **Highlighted**
 
-- [Tetris Clone](https://github.com/aobutakuki/SDL2-Tetris-Clone-Project) 
-WIP - This project is a challenge I've put upon myself with the goal of learning more about game programming and C++ which basically envolves cloning old games, starting with Tetris
+- [Price Tracker](https://github.com/aobutakuki/NoPrecinho)
+WIP - This project is a price comparison/tracker tool that will store the values of certain items in local supermarkets onto a database, the java code then will use thymeleaf and build a front end with an easy display, allowing anyone to compare prices and find the best deals locally
 
 - [Facilitando Acupuntura Store](https://github.com/aobutakuki/facilitando_acupuntura_loja)
-WIP - This is an on-going project, out of the ones in here it can be considered my first professional project as I need to work with the client and understand their requests, while maintaing a good code (with a few restrictions here and there) so that it can be implemented without breaking the backend.
+WIP - This is an on-going project, out of the ones in here it can be considered my first professional project as I need to work with the client and understand their requests, while maintaing a good code (with a few restrictions here and there) so that it can be implemented without breaking the backend. (Will be published soon)
 
 
 **C++**
-
-List of C++ projects, it was my first OOP Language, so some of the projects might be messy:
 
 - [Random Number Guessing Game](https://github.com/aobutakuki/Random-Number-Guessing-Game)
   
@@ -47,10 +50,12 @@ List of C++ projects, it was my first OOP Language, so some of the projects migh
 
 - [Tic Tac Toe](https://github.com/aobutakuki/TicTacToe)
 
+- [Kanji Guessing Game](https://github.com/aobutakuki/KanjiGuessingGame)
+
+- [Kanji Guessing Game SDL](https://github.com/aobutakuki/KanjiGuessingSDL)
+
 
 **Java**
-
-Java project list, it was my first web/backend experience:
 
 - [Simple Calculator](https://github.com/aobutakuki/Java-Basic-Calculator/blob/main/README.md)
 
@@ -61,6 +66,8 @@ Java project list, it was my first web/backend experience:
 - [Password Generator](https://github.com/aobutakuki/Password-Generator)
 
 - [Spring Boot File Download/Upload Tool](https://github.com/aobutakuki/fileDownloader/tree/master)
+
+- [No Precinho - Price Comparison](https://github.com/aobutakuki/NoPrecinho)
 
 
 ## 📖 Languages 📖
@@ -74,21 +81,20 @@ Java project list, it was my first web/backend experience:
 ## 🎱 Hobbies 🎱
 **📚 Reading 📚**
 
-I started reading when I was learning Japanese through immersion during the pandemic and I've read at least 60 books per year ever since, with the highest being 2023 with 105 books!
-Maybe that is the reason a lot of my projects end up being related to this topic...
+My passion for reading ignited while learning Japanese through literary immersion. Since then, I have consistently read over 60 books per year, with a personal best of 105 in 2023. I am particularly drawn to the intricate plots of mystery and crime, as well as character-driven romance novels.
 
 
 **🎮 Gaming 🎮**
 
-I've been gaming since I was a child starting on the nintendo wii, playing mario and party games to modern day counter-strike and valorant. I play almost any genre from AAA titles like Cyberpunk to 2D rogue-like/strategy games like Brotato and Hades. I believe gaming played a crucial role in getting me into programming and I want to develop my own 2D game later on my programming journey. I also plan on getting into mod development and countribute to open-source game projects as I gain experience to do so.
+My gaming journey began with a Nintendo Wii and has evolved to a passion for diverse genres, from immersive AAA titles like Cyberpunk 2077 to strategic indie games like Brotato and Hades. I credit gaming as the catalyst for my interest in programming, and I am driven by the long-term goal of channeling my technical skills into game development.
 
 
 **🖥 Technology 🖥**
 
-Ever since I was little I was always attracted to technology so taking part in developing it makes me happy. I want to explore diverse fields before deciding on what I want to specialize, some fields I find attractive are: reverse engineering, crypto, artificial intelligence and quantum computing. I plan on studying the mentioned topics and also learning at least the basic for the "most suited" languages for each one of them (ex:. in the case of AI that would likely be python, etc). I also want to learn the basics of how hardware components work, individually (as in per say a GPU, or CPU) and collectively (how they communicate with each other).
+My enduring interest in technology drives my ambition to be part of its innovation. I am currently building a broad foundation by exploring several advanced fields, including reverse engineering, cryptography, artificial intelligence, and quantum computing. To this end, I am systematically learning the most effective programming languages for each specialization while also studying the fundamentals of hardware—both how individual components like CPUs and GPUs function and how they integrate to form a complete system.
 
 
-## 📁 Extra 📁
+## 📁 Achivements 📁
 
 🏆 **Approved on MEXT 2024**
 
@@ -96,14 +102,10 @@ Ever since I was little I was always attracted to technology so taking part in d
 
 🏆**JPLT N1 (Self-taught)**
 
-🎵**Learning Guitar** 
+🎵**Can Play Guitar** 
 
-🍳**Learning Cooking**
+🍳**Can cook awesome Japanese Curry**
 
-Note:
-Since I am still learning the code is likely not perfectly organized and might not be optimized to it's full potential. The code might also have severe limitations which I am learning how to handle and improving as time goes on.
-
-I enjoy self-learning but I also love to work as a team. I believe getting your hands dirty is the best way to learn, and that actually doing something is a much better experience then just reading/watching lectures.
 
 
 
